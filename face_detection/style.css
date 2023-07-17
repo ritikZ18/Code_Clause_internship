@@ -1,0 +1,53 @@
+html {
+  background: #000;
+  box-shadow: rgb(85, 91, 255) 0px 0px 0px 3px, rgb(31, 193, 27) 0px 0px 0px 6px,
+    rgb(255, 217, 19) 0px 0px 0px 9px, rgb(255, 156, 85) 0px 0px 0px 12px,
+    rgb(255, 85, 85) 0px 0px 0px 15px;
+}
+#video {
+  box-shadow: rgb(85, 91, 255) 0px 0px 0px 3px, rgb(31, 193, 27) 0px 0px 0px 6px,
+    rgb(255, 217, 19) 0px 0px 0px 9px, rgb(255, 156, 85) 0px 0px 0px 12px,
+    rgb(255, 85, 85) 0px 0px 0px 15px;
+
+}
+
+#jump a {
+    left: -100px;
+
+}
+/* .info-title{
+  font-size: 20px;
+  font-weight: 800;
+  color: aliceblue;
+  position: relative;
+  top: -40%;
+  left: 10%;
+
+
+
+} */
+
+.info-header{
+  font-size: 20px;
+  font-weight: 800;
+  color: aliceblue;
+  padding: 180px;
+
+}
+
+#canvas-edit{
+  
+box-sizing: border-box;
+background: #171313;
+width: 10%;
+height: 10%;
+color: blue;
+top: 62%;
+left: 16%;
+box-shadow: rgb(85, 91, 255) 0px 0px 0px 3px, rgb(31, 193, 27) 0px 0px 0px 6px,
+rgb(255, 217, 19) 0px 0px 0px 9px, rgb(255, 156, 85) 0px 0px 0px 12px,
+rgb(255, 85, 85) 0px 0px 0px 15px;
+
+
+
+}
