@@ -2,7 +2,7 @@ Face Detection and Recognition App
 This is a web application that uses the face-api.js library to perform face detection and recognition on a live video stream. With this application, you can easily detect faces in a video stream, identify facial landmarks, and recognize facial expressions.
 
 Demo
-You can try out a live demo of the application here: [LINK TO LIVE DEMO]
+You can try out a live demo of the application here: https://venerable-faun-d681f6.netlify.app
 
 Features
 Detect faces in a live video stream 🎥
@@ -10,7 +10,7 @@ Identify facial landmarks (eyes, nose, mouth, etc.) 🔍
 Recognize facial expressions (happy, sad, angry, etc.) 😊
 Easy to use interface 🤖
 How to Use
-Go to the website [LINK TO WEBSITE]
+Go to the website https://venerable-faun-d681f6.netlify.app
 Allow the application to access your webcam when prompted
 The application will automatically detect faces in the video stream and identify facial landmarks and expressions in real time
 Pre-Trained Models
@@ -24,7 +24,7 @@ Contributing
 Contributions are always welcome! Please feel free to submit a pull request or open an issue if you have any suggestions or find any bugs.
 
 Credits
-This web application was created by [YOUR NAME] using the face-api.js library.
+This web application was using the face-api.js library.
 
 License
 This project is licensed under the MIT License.
