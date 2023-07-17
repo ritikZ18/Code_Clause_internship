@@ -1,5 +1,3 @@
-Sure, here's an example README for a face detection and recognition app that uses the face-api.js library:
-
 # Face Detection and Recognition App
 
 This is a web application that uses the face-api.js library to perform face detection and recognition on a live video stream. With this application, you can easily detect faces in a video stream, identify facial landmarks, and recognize facial expressions.
