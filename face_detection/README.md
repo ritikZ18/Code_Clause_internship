@@ -35,6 +35,7 @@ Contributions are always welcome! Please feel free to submit a pull request or o
 ## Credits
 
 This web application was using the face-api.js library.
+### Youtube: WebDevSimplified
 
 ## License
 
