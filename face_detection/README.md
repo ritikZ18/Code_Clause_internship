@@ -45,3 +45,8 @@ This project is licensed under the MIT License.
 Special thanks to the creators of the face-api.js library for providing the face detection and recognition technology.
 
 Feel free to customize this README to fit your project, including adding your own formatting and details about your specific implementation.
+
+![Screenshot (170)](https://github.com/ritikZ18/Code_Clause_internship/assets/116812243/50b18e14-b530-440d-a70d-ecf03507b0e5)
+
+![Screenshot (166)](https://github.com/ritikZ18/Code_Clause_internship/assets/116812243/05afdfc9-2faa-49ec-b9b8-52551891e7de)
+
