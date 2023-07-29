@@ -1,6 +1,6 @@
 # Code Clause Internship Projects
-### Here below you can visit and see Live Demo of all project tasks 
-    https://unrivaled-sopapillas-d48cfb.netlify.app/
+### Here in below deploy you can visit and see Live Demo of all project tasks 
+https://unrivaled-sopapillas-d48cfb.netlify.app/
 
 # "This Git repository contains all the source code and related files for the all internship project at Code Clause.
 
